@@ -43,7 +43,7 @@ public class MessageReceiver
                 Console.WriteLine(" [x] Received {0}", message);
             };
 
-            channel.BasicConsume(queue: "hello", autoAck: true, consumer: consumer);
+            channel.BasicConsume(queue: rabbitMqQueueName, autoAck: true, consumer: consumer);
 
             while(true);
         }

@@ -1,4 +1,4 @@
-version "3"
+version: '3'
 
 services:
   rabbitmq:
@@ -12,4 +12,5 @@ services:
     depends_on:
       - rabbitmq
     environment:
-      RabbitMQ__host: rabbitmq
+      RabbitMQ__host: "rabbitmq"
+      RabbitMQ_port: "15672"
