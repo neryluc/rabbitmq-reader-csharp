@@ -28,5 +28,6 @@ docker-compose up
 
 ## References
 
+- https://github.com/vishnubob/wait-for-it
 - https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
 - https://medium.com/@rsdsantos/configurando-appsettings-json-em-aplica%C3%A7%C3%B5es-net-core-2-94eb4e035660
