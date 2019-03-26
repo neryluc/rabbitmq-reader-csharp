@@ -1,6 +1,6 @@
 # RabbitMQ Message Reader
 
-[![Build Status](https://dev.azure.com/neryluc/RabbitMQ%20Message%20Reader/_apis/build/status/RabbitMQ%20Message%20Reader-ASP.NET%20Core-CI?branchName=master)](https://dev.azure.com/neryluc/RabbitMQ%20Message%20Reader/_build/results?buildId=10)
+[![Build Status](https://dev.azure.com/neryluc/RabbitMQ%20Message%20Reader/_apis/build/status/RabbitMQ%20Message%20Reader-ASP.NET%20Core-CI?branchName=master)](https://dev.azure.com/neryluc/RabbitMQ%20Message%20Reader/_build/latest?branchName=master)
 
 A simple RabbitMQ message reader in C#, that runs in a looper.
 
