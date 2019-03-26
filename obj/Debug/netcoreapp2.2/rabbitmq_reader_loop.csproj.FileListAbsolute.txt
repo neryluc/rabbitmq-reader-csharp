@@ -1,0 +1,11 @@
+/Users/neryluc/my_code/rabbitmq_reader_loop/bin/Debug/netcoreapp2.2/rabbitmq_reader_loop.deps.json
+/Users/neryluc/my_code/rabbitmq_reader_loop/bin/Debug/netcoreapp2.2/rabbitmq_reader_loop.runtimeconfig.json
+/Users/neryluc/my_code/rabbitmq_reader_loop/bin/Debug/netcoreapp2.2/rabbitmq_reader_loop.runtimeconfig.dev.json
+/Users/neryluc/my_code/rabbitmq_reader_loop/bin/Debug/netcoreapp2.2/rabbitmq_reader_loop.dll
+/Users/neryluc/my_code/rabbitmq_reader_loop/bin/Debug/netcoreapp2.2/rabbitmq_reader_loop.pdb
+/Users/neryluc/my_code/rabbitmq_reader_loop/obj/Debug/netcoreapp2.2/rabbitmq_reader_loop.csprojAssemblyReference.cache
+/Users/neryluc/my_code/rabbitmq_reader_loop/obj/Debug/netcoreapp2.2/rabbitmq_reader_loop.csproj.CoreCompileInputs.cache
+/Users/neryluc/my_code/rabbitmq_reader_loop/obj/Debug/netcoreapp2.2/rabbitmq_reader_loop.AssemblyInfoInputs.cache
+/Users/neryluc/my_code/rabbitmq_reader_loop/obj/Debug/netcoreapp2.2/rabbitmq_reader_loop.AssemblyInfo.cs
+/Users/neryluc/my_code/rabbitmq_reader_loop/obj/Debug/netcoreapp2.2/rabbitmq_reader_loop.dll
+/Users/neryluc/my_code/rabbitmq_reader_loop/obj/Debug/netcoreapp2.2/rabbitmq_reader_loop.pdb

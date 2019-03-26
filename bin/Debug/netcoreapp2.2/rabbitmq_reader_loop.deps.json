@@ -1,0 +1,247 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "00fc16ea0c1b7bc362ecd979a5acac65e345e091"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "rabbitmq_reader_loop/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.0.0-preview3.19153.1",
+          "Microsoft.Extensions.Configuration.EnvironmentVariables": "3.0.0-preview3.19153.1",
+          "Microsoft.Extensions.Configuration.FileExtensions": "3.0.0-preview3.19153.1",
+          "Microsoft.Extensions.Configuration.Json": "3.0.0-preview3.19153.1",
+          "RabbitMQ.Client": "6.0.0-pre3"
+        },
+        "runtime": {
+          "rabbitmq_reader_loop.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration/3.0.0-preview3.19153.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.0.0-preview3.19153.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.19.15301"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.0.0-preview3.19153.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.0.0-preview3.19153.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.19.15301"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.EnvironmentVariables/3.0.0-preview3.19153.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.0.0-preview3.19153.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.19.15301"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.FileExtensions/3.0.0-preview3.19153.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.0.0-preview3.19153.1",
+          "Microsoft.Extensions.FileProviders.Physical": "3.0.0-preview3.19153.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.FileExtensions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.19.15301"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Json/3.0.0-preview3.19153.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "3.0.0-preview3.19153.1",
+          "Microsoft.Extensions.Configuration.FileExtensions": "3.0.0-preview3.19153.1",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Json.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.19.15301"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Abstractions/3.0.0-preview3.19153.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.0.0-preview3.19153.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Abstractions.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.19.15301"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Physical/3.0.0-preview3.19153.1": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "3.0.0-preview3.19153.1",
+          "Microsoft.Extensions.FileSystemGlobbing": "3.0.0-preview3.19153.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Physical.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.19.15301"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileSystemGlobbing/3.0.0-preview3.19153.1": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.19.15301"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.0.0-preview3.19153.1": {
+        "dependencies": {
+          "System.Memory": "4.5.2",
+          "System.Runtime.CompilerServices.Unsafe": "4.6.0-preview3.19128.7"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.19.15301"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "RabbitMQ.Client/6.0.0-pre3": {
+        "runtime": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
+          }
+        }
+      },
+      "System.Memory/4.5.2": {},
+      "System.Runtime.CompilerServices.Unsafe/4.6.0-preview3.19128.7": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.5.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rabbitmq_reader_loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration/3.0.0-preview3.19153.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P9T8vC9ZdvwIztINHKzmrPyJTjbKEbGwcGc76IMuFzELteFEDcbjXZ7KVwzK1mo1qGhn4AfrIRZC3R/5m1L27A==",
+      "path": "microsoft.extensions.configuration/3.0.0-preview3.19153.1",
+      "hashPath": "microsoft.extensions.configuration.3.0.0-preview3.19153.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.0.0-preview3.19153.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HyaispbUEI03WCxJLAS662dHSzhl0LAqQZ1sDrNlQ5cqBHfRw9AIqkHzkU59IVESGHG4HRjPmApJHQh5XmaySQ==",
+      "path": "microsoft.extensions.configuration.abstractions/3.0.0-preview3.19153.1",
+      "hashPath": "microsoft.extensions.configuration.abstractions.3.0.0-preview3.19153.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.EnvironmentVariables/3.0.0-preview3.19153.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RcitBOQUp1dPEgB9tesmyF1roesWKnb7R/NKXVP0cUV49epVTWBjpygFERhDw92koDTlA5S1yVosjr3ljFgWxA==",
+      "path": "microsoft.extensions.configuration.environmentvariables/3.0.0-preview3.19153.1",
+      "hashPath": "microsoft.extensions.configuration.environmentvariables.3.0.0-preview3.19153.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.FileExtensions/3.0.0-preview3.19153.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jWqzy83TfkrL7O/cw/9egNq26OwVdPb6GcaOMeGXcOphwDbXgCaqAaSQIdApIpdJ/7JeCqnC20stajmqsjxXng==",
+      "path": "microsoft.extensions.configuration.fileextensions/3.0.0-preview3.19153.1",
+      "hashPath": "microsoft.extensions.configuration.fileextensions.3.0.0-preview3.19153.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Json/3.0.0-preview3.19153.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SI1bGNcjh8DyvV+JZGRNskqUdDpKl1Xsa8RqIRFAov88aeojtyqDm4eoSjT7fq9w8RtVIMzBR6p20JnuRJPvXg==",
+      "path": "microsoft.extensions.configuration.json/3.0.0-preview3.19153.1",
+      "hashPath": "microsoft.extensions.configuration.json.3.0.0-preview3.19153.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Abstractions/3.0.0-preview3.19153.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EagM4gLNMCkzb8S7/BLaKiTfZAfdnHdXTIeoAiokWMIy5rMooUHyow0oDzaABe/yGz7VGrMeSQW5X9U97Of/OQ==",
+      "path": "microsoft.extensions.fileproviders.abstractions/3.0.0-preview3.19153.1",
+      "hashPath": "microsoft.extensions.fileproviders.abstractions.3.0.0-preview3.19153.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Physical/3.0.0-preview3.19153.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vVu0ftWgzBsO/WyJHSABUBXMg0+04CoJfetYFoWNNyWSIGhcBck1UZxycFE1vmQPj8Td4RB3tsLHQYeQdqtmtA==",
+      "path": "microsoft.extensions.fileproviders.physical/3.0.0-preview3.19153.1",
+      "hashPath": "microsoft.extensions.fileproviders.physical.3.0.0-preview3.19153.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileSystemGlobbing/3.0.0-preview3.19153.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ixyuKklrQ/+NFMvefgz60P+BEIEPuZFuY/BAeIxJGwDkwDU2jjjYknERhAOKS57HH9JT0Ad979Bpw4kchrb9wA==",
+      "path": "microsoft.extensions.filesystemglobbing/3.0.0-preview3.19153.1",
+      "hashPath": "microsoft.extensions.filesystemglobbing.3.0.0-preview3.19153.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.0.0-preview3.19153.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-suwKnoXLCu1TZwAcSbStZxIHlZq+x3y/FsFiMmzXkVzwrJ20Lr3JSRSaUiv3rDPvmNWst5+1Pd1FFR8uvRHukg==",
+      "path": "microsoft.extensions.primitives/3.0.0-preview3.19153.1",
+      "hashPath": "microsoft.extensions.primitives.3.0.0-preview3.19153.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-znZGbws7E4BA9jxNZ7FuiIRI3C9hrgatVQSTKhIYZYNOud4M5VfGlTYi6RdYO5sQrebFuF/g9UEV3hOxDMXF6Q==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "RabbitMQ.Client/6.0.0-pre3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3V3kGiS6rOG9UPh80me/T5WtN0hJZcKvPfHwEej/QJhSxuKPyaN7kL0R3udTa2UzoikPYrvIB3TXHNLb/HE5iA==",
+      "path": "rabbitmq.client/6.0.0-pre3",
+      "hashPath": "rabbitmq.client.6.0.0-pre3.nupkg.sha512"
+    },
+    "System.Memory/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ohf9h6em5CjPaAzupGtW/TWMzX6aVfIGPh7bq5KQmfvYJr+DqvOa0cRS9ggFKGIuvKTModCQEacGC/CwE8j7cg==",
+      "path": "system.memory/4.5.2",
+      "hashPath": "system.memory.4.5.2.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.6.0-preview3.19128.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-viWo540/lOqsWNW50LJnw2rQBYYgJTENNh5OO+Bf9uXLnX/RUg9PdPlUS4/sE2j24va1AETO2OMiHOUek9iZDw==",
+      "path": "system.runtime.compilerservices.unsafe/4.6.0-preview3.19128.7",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.6.0-preview3.19128.7.nupkg.sha512"
+    }
+  }
+}
